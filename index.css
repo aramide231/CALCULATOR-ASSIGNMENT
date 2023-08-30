@@ -1,15 +1,13 @@
 .Desktop1 {
-    background: rgb(2,0,36);
-    background: linear-gradient(180deg, rgb(52, 152, 219), rgb(41, 128, 185));
-
+    background: white;
+    background: linear-gradient(90deg, rgb(52, 152, 219), rgb(169, 79, 83));
+  
 }
 .AndroidSmall1 {
     padding-top: 303.97px;
     padding-bottom: 19px;
     padding-left: 20px;
     padding-right: 17px;
-    left: 500px;
-    top: 124px;
     position: absolute;
     background: black;
     border-radius: 18px;
@@ -19,5 +17,13 @@
     align-items: flex-start;
     gap: 15px;
     display: inline-flex;
-     
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%)
+  
 }
+
+
+    
+     
+
