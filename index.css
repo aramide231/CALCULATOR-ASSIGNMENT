@@ -1,6 +1,6 @@
 .Desktop1 {
     background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,103,9,1) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(180deg, rgb(52, 152, 219), rgb(41, 128, 185));
 
 }
 .AndroidSmall1 {
@@ -8,7 +8,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,103,9,1) 35%, rgb
     padding-bottom: 19px;
     padding-left: 20px;
     padding-right: 17px;
-    left: 750px;
+    left: 500px;
     top: 124px;
     position: absolute;
     background: black;
