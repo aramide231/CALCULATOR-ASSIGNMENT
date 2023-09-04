@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const allButtons = document.querySelectorAll("button");
 let content = ''; // Initialize content as an empty string
 
@@ -84,7 +83,7 @@ squareRoot.addEventListener("click", function () {
 // content=button.textontent+content
 
 
-=======
+
 document.getElementById("btn").addEventListener("click",function(){
 console.log("button clicked")})
 
@@ -126,6 +125,6 @@ console.log("button clicked")})
 
 
 
->>>>>>> f072be640d6d30598f1d698f6536e4e5271dd133
+
 
   
